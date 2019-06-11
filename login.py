@@ -6,4 +6,5 @@ def detail():
 	print("detail info")
 
 a=3
+c=5
 
